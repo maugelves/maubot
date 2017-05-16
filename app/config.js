@@ -21,7 +21,8 @@ var config = {
       'Buenos días, asiduos visitantes del https://codex.wordpress.org/',
       'Hoy no me apetece dar los buenos días. Hasta los robots tenemos días malos.',
       'Buenos días, hoy tengo un secreto. Ayer le hicieron un pull-request a mi corazón binario.',
-      'Buenos días, los hijos de Touring os saludan.'
+      'Buenos días, los hijos de Touring os saludan.',
+      'Buenos días, cachos de carne en estado permanente de oxidación'
     ]
 }
 
